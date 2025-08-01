@@ -1,0 +1,219 @@
+{
+  "Cards": [
+    {
+      "Card": {
+        "No.": "0",
+        "Tarot Card": "The Fool",
+        "Corresponding Pathway": "Fool",
+        "Corresponding Character": "Klein Moretti",
+        "Fate": "A leap into the unknown; the beginning of a mystic journey filled with danger and revelation.",
+        "Image": "Tarot_deck/FoolImage.webp",
+        "Card_Color": "#32004d"
+        
+      }
+    },
+    {
+      "Card": {
+        "No.": "I",
+        "Tarot Card": "The Magician",
+        "Corresponding Pathway": "Door",
+        "Corresponding Character": "Fors Wall",
+        "Fate": "The door to the supernatural opens; grasp knowledge, or be consumed by it.",
+        "Image":"Tarot_deck/MagicianImage.webp",
+        "Card_Color": "#32004d"
+      }
+    },
+    {
+      "Card": {
+        "No.": "II",
+        "Tarot Card": "The High Priestess",
+        "Corresponding Pathway": "Paragon",
+        "Corresponding Character": "Bernadette Gustav",
+        "Fate": "Secrets hidden in layers of wisdom; intuition becomes power if trusted.",
+        "Image":"Tarot_deck/HighPriestess.webp"
+
+      }
+    },
+    {
+      "Card": {
+        "No.": "III",
+        "Tarot Card": "The Empress",
+        "Corresponding Pathway": "Demoness",
+        "Corresponding Character": "Trissy",
+        "Fate": "Temptation and charm lead to power—or ruin; beware the shadow behind beauty.",
+        "Image":"Tarot_deck/EmpressImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "IV",
+        "Tarot Card": "The Emperor",
+        "Corresponding Pathway": "Black Emperor",
+        "Corresponding Character": "Roselle Gustav",
+        "Fate": "Authority gained through chaos; stability masks ambition and control.",
+        "Image":"Tarot_deck/EmperorImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "V",
+        "Tarot Card": "The Hierophant",
+        "Corresponding Pathway": "Tyrant",
+        "Corresponding Character": "Alger Wilson",
+        "Fate": "Guidance through structure—or oppression; control must be tempered by wisdom.",
+        "Image":"Tarot_deck/HierophantImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "VI",
+        "Tarot Card": "The Lovers",
+        "Corresponding Pathway": "Error",
+        "Corresponding Character": "Amon",
+        "Fate": "Duality and deception; unity may disguise divergence and chaos.",
+        "Image":"Tarot_deck/LoversImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "VII",
+        "Tarot Card": "The Chariot",
+        "Corresponding Pathway": "Red Priest",
+        "Corresponding Character": "Sauron-Einhorn-Medici",
+        "Fate": "Victory through will and fury; unchecked motion leads to combustion.",
+        "Image":"Tarot_deck/ChariotImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "VIII",
+        "Tarot Card": "Strength",
+        "Corresponding Pathway": "Twilight Giant",
+        "Corresponding Character": "Colin Iliad",
+        "Fate": "True strength lies in restraint; might must be tamed by clarity.",
+        "Image":"Tarot_deck/StrengthImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "IX",
+        "Tarot Card": "The Hermit",
+        "Corresponding Pathway": "Hermit",
+        "Corresponding Character": "Cattleya",
+        "Fate": "Solitude births insight; distance grants truth—but may cost connection.",
+        "Image":"Tarot_deck/HermitImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "X",
+        "Tarot Card": "Wheel of Fortune",
+        "Corresponding Pathway": "Wheel of Fortune",
+        "Corresponding Character": "Will Auceptin",
+        "Fate": "Fate turns relentlessly; even chaos follows a pattern—if one sees deeply enough.",
+        "Image":"Tarot_deck/FortuneImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XI",
+        "Tarot Card": "Justice",
+        "Corresponding Pathway": "Visionary",
+        "Corresponding Character": "Audrey Hall",
+        "Fate": "Clarity brings balance; to see truth is to act with precision and courage.",
+        "Image":"Tarot_deck/JusticeImage.webp",
+        "Card_Color": "#32004d"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XII",
+        "Tarot Card": "The Hanged Man",
+        "Corresponding Pathway": "Hanged Man",
+        "Corresponding Character": "Alger Wilson, True Creator",
+        "Fate": "Sacrifice unveils a higher reality; surrender is transformation in disguise.",
+        "Image":"Tarot_deck/HangedManImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XIII",
+        "Tarot Card": "Death",
+        "Corresponding Pathway": "Death",
+        "Corresponding Character": "Azik Eggers",
+        "Fate": "Endings are gateways; through loss comes awakening and rebirth.",
+        "Image":"Tarot_deck/DeathImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XIV",
+        "Tarot Card": "Temperance",
+        "Corresponding Pathway": "Chained",
+        "Corresponding Character": "Sharron",
+        "Fate": "Balance must be struck between extremes; harmony is the chain that binds chaos.",
+        "Image":"Tarot_deck/TemperanceImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XV",
+        "Tarot Card": "The Devil",
+        "Corresponding Pathway": "Abyss",
+        "Corresponding Character": "Mother Tree of Desire",
+        "Fate": "Desire enslaves and consumes; freedom lies in confronting temptation.",
+        "Image":"Tarot_deck/DevilImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XVI",
+        "Tarot Card": "The Tower",
+        "Corresponding Pathway": "White Tower",
+        "Corresponding Character": "Edwina Edwards",
+        "Fate": "Collapse clears falsehood; destruction is often the price of truth.",
+        "Image":"Tarot_deck/ToverImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XVII",
+        "Tarot Card": "The Star",
+        "Corresponding Pathway": "Darkness",
+        "Corresponding Character": "Leonard Mitchell",
+        "Fate": "Hope shines in the abyss; follow light through despair to healing.",
+        "Image":"Tarot_deck/StarImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XVIII",
+        "Tarot Card": "The Moon",
+        "Corresponding Pathway": "Moon",
+        "Corresponding Character": "Emlyn White",
+        "Fate": "Illusion and instinct entwine; truth lies beneath layers of silver deceit.",
+        "Image":"Tarot_deck/MoonImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XX",
+        "Tarot Card": "Judgement",
+        "Corresponding Pathway": "Justiciar",
+        "Corresponding Character": "Xio Derecha",
+        "Fate": "Reckoning approaches; the past must be judged before the future can begin.",
+        "Image":"Tarot_deck/JudgementImage.webp"
+      }
+    },
+    {
+      "Card": {
+        "No.": "XXI",
+        "Tarot Card": "The World",
+        "Corresponding Pathway": "Mother",
+        "Corresponding Character": "Mother Goddess of Depravity, Frank Lee",
+        "Fate": "Completion and integration; divinity lies in the unity of all things, both light and dark.",
+        "Image":"Tarot_deck/VorldImage.webp"
+      }
+    }
+  ]
+}
