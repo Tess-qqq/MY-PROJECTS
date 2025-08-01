@@ -3,30 +3,27 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tarot club</title>
+  <title>Tarot Club</title>
   <link rel="stylesheet" href="tarot_club.css">
 </head>
-<div id = "table" class = "table">
-  <h2>Divination</h2>
-  <button id = "Divine" onclick = "Divine()">Divine</button>
-</div>
-<div id = "CardImage">
-  <img src = "" id = TarotCard alt = "TarotCard">
-</div>
-<div id = "divinationinfo">
-  <br>
-  <label id = "divination1"></label><br>
-  <label id = "divination2"></label><br>
-  <label id = "divination3"></label><br>
-  <label id = "divination4"></label><br>
-  <label id = "divination5"></label><br>
-  
-</div>
-<div>
-
-</div>
-<script src="tarot.cards.js"></script>
 <body>
-  
+  <div id="table" class="table">
+    <h2>Divination</h2>
+    <button id="Divine" onclick="Divine()">Divine</button>
+  </div>
+
+  <div id="CardImage">
+    <img src="" id="TarotCard" alt="TarotCard">
+  </div>
+
+  <div id="divinationinfo">
+    <label id="divination1"></label><br>
+    <label id="divination2"></label><br>
+    <label id="divination3"></label><br>
+    <label id="divination4"></label><br>
+  </div>
+
+  <!-- Load JS last with defer -->
+  <script src="tarot.cards.js" defer></script>
 </body>
 </html>
