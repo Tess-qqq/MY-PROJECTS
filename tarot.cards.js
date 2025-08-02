@@ -122,7 +122,6 @@ const tarotData  = {
         "Corresponding Character": "Audrey Hall",
         "Fate": "Clarity brings balance; to see truth is to act with precision and courage.",
         "Image":"Tarot_deck/JusticeImage.webp",
-        "Card_Color": "#32004d"
       }
     },
     {
@@ -264,4 +263,5 @@ function Divine() {
   divination5.style.backgroundImage = `url(${card.Card.Image})`;
   divination5.textContent = card.Card["Fate"];
 }
+
 
