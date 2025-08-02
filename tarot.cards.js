@@ -8,7 +8,6 @@ const tarotData  = {
         "Corresponding Character": "Klein Moretti",
         "Fate": "A leap into the unknown; the beginning of a mystic journey filled with danger and revelation.",
         "Image": "Tarot_deck/FoolImage.webp",
-        "Card_Color": "#32004d"
         
       }
     },
@@ -20,7 +19,6 @@ const tarotData  = {
         "Corresponding Character": "Fors Wall",
         "Fate": "The door to the supernatural opens; grasp knowledge, or be consumed by it.",
         "Image":"Tarot_deck/MagicianImage.webp",
-        "Card_Color": "#32004d"
       }
     },
     {
@@ -263,5 +261,6 @@ function Divine() {
   divination5.style.backgroundImage = `url(${card.Card.Image})`;
   divination5.textContent = card.Card["Fate"];
 }
+
 
 
