@@ -254,13 +254,12 @@ function Divine() {
 
   divination3.style.backgroundImage = `url(${card.Card.Image})`;
   divination3.textContent = card.Card["Corresponding Pathway"];
-
+  divination5.style.backgroundImage = `url(${card.Card.Image})`;
   divination4.style.backgroundImage = `url(${card.Card.Image})`;
   divination4.textContent = card.Card["Corresponding Character"];
-
-  divination5.style.backgroundImage = `url(${card.Card.Image})`;
   divination5.textContent = card.Card["Fate"];
 }
+
 
 
 
